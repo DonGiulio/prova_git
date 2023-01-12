@@ -8,6 +8,7 @@ class ItemsController < ApplicationController
 
   # GET /items/1 or /items/1.json
   def show
+    # I'll create some comment here pretending it's code
   end
 
   # GET /items/new
