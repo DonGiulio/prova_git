@@ -1,3 +1,3 @@
 module ApplicationHelper
-  # comment here
+  # comment here 2
 end
